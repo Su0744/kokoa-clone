@@ -1,0 +1,26 @@
+.Ifari-herder {
+  margin: 80px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Ifari-herder__title {
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 10px black;
+  color: #ffce33;
+}
+
+.Ifari-herder__text {
+  width: 70%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: rgba(0, 198, 173, 0.5);
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  text-shadow: 2px 2px 10px black;
+}

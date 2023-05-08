@@ -1,0 +1,9 @@
+.tomatoball {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  right: -7px;
+  top: -8px;
+}
